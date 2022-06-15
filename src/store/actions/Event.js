@@ -17,7 +17,7 @@ export const setEventList = (data) => {
 
 export const getCategoriesData = () => {
     return dispatch => {
-        return axios.get('/api/v1/events/categories', {
+        return axios.get('/api/v1/categories', {
                 headers: {
                     'Content-Type': 'application/json'
                 }

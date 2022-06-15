@@ -2,6 +2,8 @@
 
 Install project Dependency
 
+### `Copy .env.example to .env` for config
+
 ### `yarn start`
 
 Runs the app in the development mode.\
